@@ -3,7 +3,9 @@ repo: upptime_chess_quo
 
 sites:
   - name: ChessQuo
-    url: https://chessquo.com
+    url: https://chessquo.com/
+  - name: Cryptalyx
+    url: https://cryptalyx.com/
 
 status-website:
   baseUrl: /upptime_chess_quo
