@@ -21,6 +21,8 @@ status-website:
     built using [Upptime](https://github.com/upptime/upptime). All checks are
     powered by GitHub Actions, no server required.
   navbar:
+    - title: Portfolio
+      href: https://matthewhajec.dev
     - title: Status
       href: https://status.matthewhajec.dev
     - title: GitHub
