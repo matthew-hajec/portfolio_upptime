@@ -1,5 +1,5 @@
 owner: matthew-hajec
-repo: upptime_chess_quo
+repo: portfolio_upptime
 
 sites:
   - name: ChessQuo
@@ -8,7 +8,7 @@ sites:
     url: https://cryptalyx.com/
 
 status-website:
-  baseUrl: /upptime_chess_quo
+  baseUrl: /portfolio_upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Portfolio Uptime
   introTitle: "Portfolio monitoring site"
@@ -18,6 +18,6 @@ status-website:
     powered by GitHub Actions, no server required.
   navbar:
     - title: Status
-      href: /
+      href: https://matthew-hajec.github.io/portfolio_upptime/
     - title: GitHub
       href: https://github.com/matthew-hajec/uptime_chess_quo
