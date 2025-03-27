@@ -1,7 +1,7 @@
 [
   {
     "name": "ChessQuo",
-    "url": "https://chessquo.com",
+    "url": "https://chessquo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/chessquo.com.ico",
     "slug": "chess-quo",
     "status": "up",
@@ -10,11 +10,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 175,
-    "timeDay": 175,
-    "timeWeek": 175,
-    "timeMonth": 175,
-    "timeYear": 175,
+    "time": 179,
+    "timeDay": 179,
+    "timeWeek": 179,
+    "timeMonth": 179,
+    "timeYear": 179,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Cryptalyx",
+    "url": "https://cryptalyx.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/cryptalyx.com.ico",
+    "slug": "cryptalyx",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 138,
+    "timeDay": 138,
+    "timeWeek": 138,
+    "timeMonth": 138,
+    "timeYear": 138,
     "dailyMinutesDown": {}
   }
 ]
