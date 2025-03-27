@@ -4,19 +4,19 @@
     "url": "https://chessquo.com",
     "icon": "https://icons.duckduckgo.com/ip3/chessquo.com.ico",
     "slug": "chess-quo",
-    "status": "down",
-    "uptime": "98.41%",
-    "uptimeDay": "98.41%",
-    "uptimeWeek": "98.41%",
-    "uptimeMonth": "98.41%",
-    "uptimeYear": "98.41%",
-    "time": 117,
-    "timeDay": 117,
-    "timeWeek": 117,
-    "timeMonth": 117,
-    "timeYear": 117,
+    "status": "up",
+    "uptime": "88.12%",
+    "uptimeDay": "88.12%",
+    "uptimeWeek": "88.12%",
+    "uptimeMonth": "88.12%",
+    "uptimeYear": "88.12%",
+    "time": 136,
+    "timeDay": 136,
+    "timeWeek": 136,
+    "timeMonth": 136,
+    "timeYear": 136,
     "dailyMinutesDown": {
-      "2025-03-27": 0
+      "2025-03-27": 2
     }
   }
 ]
