@@ -14,7 +14,7 @@ sites:
 status-website:
   baseUrl: /portfolio_upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Portfolio Uptime
+  name: Portfolio Upptime
   introTitle: "Portfolio monitoring site"
   introMessage: |
     This is the automated status page for [my](https://github.com/matthew-hajec) portfolio projects,
