@@ -2,10 +2,14 @@ owner: matthew-hajec
 repo: portfolio_upptime
 
 sites:
+  - name: Portfolio
+    url: https://matthewhajec.dev/
   - name: ChessQuo
     url: https://chessquo.com/
   - name: Cryptalyx
     url: https://cryptalyx.com/
+  - name: Today I Will
+    url: https://bangrew.com/
 
 status-website:
   baseUrl: /portfolio_upptime
