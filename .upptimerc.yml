@@ -15,7 +15,7 @@ status-website:
   cname: status.matthewhajec.dev
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Portfolio Upptime
-  introTitle: "Portfolio monitoring site"
+  introTitle: "Portfolio Monitoring"
   introMessage: |
     This is the automated status page for [my](https://github.com/matthew-hajec) portfolio projects,
     built using [Upptime](https://github.com/upptime/upptime). All checks are
