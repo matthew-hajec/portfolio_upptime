@@ -1,5 +1,5 @@
-owner: matthew-hajec  # Replace with your GitHub username
-repo: chessquo-status # This will be the name of your Upptime repo
+owner: matthew-hajec
+repo: upptime_chess_quo
 
 sites:
   - name: ChessQuo
@@ -18,4 +18,4 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/matthew-hajec/chessquo-status
+      href: https://github.com/matthew-hajec/uptime_chess_quo
