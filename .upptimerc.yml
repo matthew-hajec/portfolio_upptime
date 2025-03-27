@@ -12,7 +12,7 @@ sites:
     url: https://bangrew.com/
 
 status-website:
-  baseUrl: /portfolio_upptime
+  cname: status.matthewhajec.dev
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Portfolio Upptime
   introTitle: "Portfolio monitoring site"
@@ -22,6 +22,6 @@ status-website:
     powered by GitHub Actions, no server required.
   navbar:
     - title: Status
-      href: https://matthew-hajec.github.io/portfolio_upptime/
+      href: https://status.matthewhajec.dev
     - title: GitHub
       href: https://github.com/matthew-hajec/portfolio_upptime/
