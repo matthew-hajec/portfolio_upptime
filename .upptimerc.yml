@@ -6,8 +6,7 @@ sites:
     url: https://chessquo.com
 
 status-website:
-  cname: status.chessquo.com  # Optional custom domain, change/remove if not needed
-  # baseUrl: /chessquo-status  # Uncomment if not using custom domain
+  baseUrl: /upptime_chess_quo
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: ChessQuo Uptime
   introTitle: "**ChessQuo Status** — monitoring site uptime via GitHub Actions"
