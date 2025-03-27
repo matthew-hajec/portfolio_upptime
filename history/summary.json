@@ -1,5 +1,23 @@
 [
   {
+    "name": "Portfolio",
+    "url": "https://matthewhajec.dev/",
+    "icon": "https://icons.duckduckgo.com/ip3/matthewhajec.dev.ico",
+    "slug": "portfolio",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 169,
+    "timeDay": 169,
+    "timeWeek": 169,
+    "timeMonth": 169,
+    "timeYear": 169,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "ChessQuo",
     "url": "https://chessquo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/chessquo.com.ico",
@@ -10,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 175,
-    "timeDay": 175,
-    "timeWeek": 175,
-    "timeMonth": 175,
-    "timeYear": 175,
+    "time": 180,
+    "timeDay": 180,
+    "timeWeek": 180,
+    "timeMonth": 180,
+    "timeYear": 180,
     "dailyMinutesDown": {}
   },
   {
@@ -33,6 +51,24 @@
     "timeWeek": 147,
     "timeMonth": 147,
     "timeYear": 147,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Today I Will",
+    "url": "https://bangrew.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/bangrew.com.ico",
+    "slug": "today-i-will",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 258,
+    "timeDay": 258,
+    "timeWeek": 258,
+    "timeMonth": 258,
+    "timeYear": 258,
     "dailyMinutesDown": {}
   }
 ]
