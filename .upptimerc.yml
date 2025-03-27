@@ -8,10 +8,10 @@ sites:
 status-website:
   baseUrl: /upptime_chess_quo
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: ChessQuo Uptime
-  introTitle: "**ChessQuo Status** — monitoring site uptime via GitHub Actions"
+  name: Portfolio Uptime
+  introTitle: "Portfolio monitoring site"
   introMessage: |
-    This is the automated status page for [ChessQuo](https://chessquo.com),
+    This is the automated status page for [my](https://github.com/matthew-hajec) portfolio projects,
     built using [Upptime](https://github.com/upptime/upptime). All checks are
     powered by GitHub Actions, no server required.
   navbar:
