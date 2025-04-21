@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 230,
-    "timeDay": 192,
-    "timeWeek": 238,
-    "timeMonth": 230,
-    "timeYear": 230,
+    "time": 231,
+    "timeDay": 242,
+    "timeWeek": 229,
+    "timeMonth": 231,
+    "timeYear": 231,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 202,
-    "timeDay": 129,
-    "timeWeek": 215,
-    "timeMonth": 202,
-    "timeYear": 202,
+    "time": 201,
+    "timeDay": 175,
+    "timeWeek": 212,
+    "timeMonth": 201,
+    "timeYear": 201,
     "dailyMinutesDown": {}
   },
   {
@@ -41,17 +41,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/cryptalyx.com.ico",
     "slug": "cryptalyx",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "95.95%",
+    "uptimeDay": "2.38%",
+    "uptimeWeek": "86.05%",
+    "uptimeMonth": "95.95%",
+    "uptimeYear": "95.95%",
     "time": 151,
-    "timeDay": 82,
-    "timeWeek": 150,
+    "timeDay": 0,
+    "timeWeek": 152,
     "timeMonth": 151,
     "timeYear": 151,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-21": 4,
+      "2025-04-20": 1402
+    }
   },
   {
     "name": "Today I Will",
@@ -64,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 339,
-    "timeDay": 266,
-    "timeWeek": 394,
-    "timeMonth": 339,
-    "timeYear": 339,
+    "time": 337,
+    "timeDay": 287,
+    "timeWeek": 386,
+    "timeMonth": 337,
+    "timeYear": 337,
     "dailyMinutesDown": {}
   }
 ]
