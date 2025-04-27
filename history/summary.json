@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cryptalyx.com.ico",
     "slug": "cryptalyx",
     "status": "down",
-    "uptime": "77.00%",
-    "uptimeDay": "3.36%",
+    "uptime": "77.01%",
+    "uptimeDay": "4.95%",
     "uptimeWeek": "1.05%",
-    "uptimeMonth": "77.00%",
-    "uptimeYear": "77.00%",
+    "uptimeMonth": "77.01%",
+    "uptimeYear": "77.01%",
     "time": 151,
     "timeDay": 0,
     "timeWeek": 0,
@@ -67,18 +67,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/bangrew.com.ico",
     "slug": "today-i-will",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 329,
     "timeDay": 234,
     "timeWeek": 296,
     "timeMonth": 329,
     "timeYear": 329,
-    "dailyMinutesDown": {
-      "2025-04-26": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
